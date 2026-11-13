@@ -1,0 +1,11 @@
+*
+!go.mod
+!ember/
+!ember/**/*.go
+!internal/
+!internal/**/
+!internal/**/*.go
+!cmd/
+!cmd/emberd/
+!cmd/emberd/**/*.go
+**/*_test.go
