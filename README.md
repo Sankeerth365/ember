@@ -218,6 +218,6 @@ Evaluate block codec tradeoffs and the storage and networking changes a
 Raft replication layer would require.
 
 [Architecture](docs/ARCHITECTURE.md) · [Disk formats](docs/FORMATS.md) ·
-[Design decisions](docs/DESIGN_DECISIONS.md) · [Interview notes](docs/INTERVIEW_NOTES.md)
+[Design decisions](docs/DESIGN_DECISIONS.md)
 
 Licensed under the [MIT License](LICENSE).
